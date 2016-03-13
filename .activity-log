@@ -433,3 +433,4 @@
 [2016-03-11T08:43:10] Refactor code (#433)
 [2016-03-12T09:30:32] Optimize (#434)
 [2016-03-12T18:50:19] Add validation (#435)
+[2016-03-12T19:33:03] Add error handling (#436)
