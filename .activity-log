@@ -474,3 +474,4 @@
 [2016-04-13T17:11:20] Update docs (#474)
 [2016-04-13T19:57:54] Add validation (#475)
 [2016-04-17T11:51:52] Refactor utils (#476)
+[2016-04-17T13:57:00] Add error handling (#477)
