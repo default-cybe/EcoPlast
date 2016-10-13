@@ -760,3 +760,4 @@
 [2016-10-11T20:14:12] Refactor utils (#760)
 [2016-10-11T20:36:38] Add error handling (#761)
 [2016-10-13T09:31:28] Fix formatting (#762)
+[2016-10-13T13:16:04] Fix lint (#763)
