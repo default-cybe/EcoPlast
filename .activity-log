@@ -1664,3 +1664,4 @@
 [2019-01-09T21:40:55] Refactor code (#1664)
 [2019-01-12T12:18:53] Add error handling (#1665)
 [2019-01-12T23:27:01] Fix edge case (#1666)
+[2019-01-15T19:53:38] Add validation (#1667)
