@@ -3922,3 +3922,4 @@
 [2024-12-09T14:54:41] Add comments (#3922)
 [2024-12-10T21:21:23] Fix formatting (#3923)
 [2024-12-13T09:08:32] Fix edge case (#3924)
+[2024-12-13T19:12:49] Add error handling (#3925)
